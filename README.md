@@ -1,10 +1,10 @@
-# 👨‍💻 Maykon Douglas
+## 👨‍💻 Mayckon Douglas
 
 ---
 
 ## 🚀 Sobre mim
 
-🎓 Estudante da **EFG Paulo Renato de Souza** há 2 anos
+🎓 Estudante da EFG Paulo Renato de Souza há 2 anos  
 💻 Focado em tecnologia e desenvolvimento de sistemas
 
 Atualmente desenvolvendo habilidades em:
@@ -14,17 +14,17 @@ Atualmente desenvolvendo habilidades em:
 * 🌐 Desenvolvimento Front-end
 * ☁️ Computação em Nuvem
 
-🚀 Faço parte do **Projeto Sentinela**, atuando no desenvolvimento de um **sistema de usuários**, adquirindo experiência prática com projetos reais.
+🚀 Faço parte do Projeto Sentinela, atuando no desenvolvimento de um sistema de usuários, adquirindo experiência prática com projetos reais.
 
-📚 Atualmente estou me aprofundando em **cibersegurança** e **cloud computing**.
+📚 Atualmente estou me aprofundando em cibersegurança e cloud computing.
 
 ---
 
 ## 🎯 Objetivos
 
 * Me tornar um desenvolvedor completo
-* Me especializar em **cibersegurança**
-* Evoluir no desenvolvimento **back-end**
+* Me especializar em cibersegurança
+* Evoluir no desenvolvimento back-end
 * Participar de projetos cada vez maiores
 
 ---
@@ -39,6 +39,32 @@ Atualmente desenvolvendo habilidades em:
 
 ### ⚙️ Front-end
 
+* Desenvolvimento de interfaces
+* CSS
+
+### 🔐 Outros conhecimentos
+
+* Cibersegurança
+* Computação em Nuvem
+* React.js
+
+---
+
+## 📌 Projetos
+
+🚧 Em desenvolvimento:
+
+* Sistema de usuários (Projeto Sentinela)
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: [Mayckon Douglas Oliveira](https://www.linkedin.com/in/mayckon-douglas-oliveira-b88874409)
+
+---
+
+⭐ *Sempre aprendendo e evoluindo!*
 * Desenvolvimento de interfaces
 * CSS (style.css)
 
